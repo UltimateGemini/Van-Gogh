@@ -12,5 +12,7 @@ A simple example PWA application displays the art work by famous painter Vincent
 * [Firebase Storage](https://firebase.google.com/products/storage/)
 
 ## Demo
-https://van-gogh-app.firebaseapp.com/home
+* [Van Gogh App](https://van-gogh-app.firebaseapp.com/home)
+
+
 ![alt text](https://www.noelfranceschi.com/angular2-apps/van-gogh.png)
